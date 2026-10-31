@@ -1,0 +1,48 @@
+{
+  "snapshot_note": "Payload sizes before writing this inventory and final checksum manifest.",
+  "payload_bytes": 109193480,
+  "largest_files": [
+    {
+      "file": "../results/catalog60_8192_v2/window_vectors.npy",
+      "bytes": 8175744
+    },
+    {
+      "file": "../results/catalog60_8192_v2/chapter_vectors.npy",
+      "bytes": 7090304
+    },
+    {
+      "file": "../assets/plotly.min.js",
+      "bytes": 4851164
+    },
+    {
+      "file": "../sources/smith_wealth_nations/canonical.txt",
+      "bytes": 2234503
+    },
+    {
+      "file": "../results/catalog60_8192_v2/chapters.json",
+      "bytes": 2031575
+    },
+    {
+      "file": "../sources/plato_republic/ledger.json",
+      "bytes": 1810879
+    },
+    {
+      "file": "../sources/james_varieties/ledger.json",
+      "bytes": 1658758
+    },
+    {
+      "file": "../sources/nietzsche_zarathustra/ledger.json",
+      "bytes": 1456747
+    },
+    {
+      "file": "../sources/hume_treatise/canonical.txt",
+      "bytes": 1338277
+    },
+    {
+      "file": "original_preservation.json",
+      "bytes": 1324873
+    }
+  ],
+  "files_over_100_MiB": 0,
+  "caches_environments_model_weights_included": false
+}

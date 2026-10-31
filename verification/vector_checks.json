@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "source_documents": 60,
+  "native_unit_vectors": 1731,
+  "window_vectors": 1996,
+  "work_vectors": 153,
+  "attribution_groups": 35,
+  "dimensions": 1024,
+  "single_window_units": 1560,
+  "multi_window_units": 171,
+  "unique_owned_tokens": 5214383,
+  "max_centroid_component_error": 1.4743353538015924e-08,
+  "mapping_files": 60,
+  "exact_source_mapping_reconstructions": 1731,
+  "block_dispositions": {
+    "excluded": 15424,
+    "included": 36320
+  },
+  "all_cleaned_text_hashes_match": true,
+  "row_order_and_ids_verified": true,
+  "all_aggregation_levels_verified": true,
+  "inference_requests": 0,
+  "errors": []
+}

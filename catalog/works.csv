@@ -1,0 +1,154 @@
+row_index,title,authors,attribution_status,source_id,translator,language,chapter_count,unit_types,window_count,catalog_url
+0,Republic,"[""Plato""]",resolved,plato_republic,Benjamin Jowett,en,10,"{""book"": 10}",23,https://www.gutenberg.org/ebooks/1497
+1,Apology,"[""Plato""]",resolved,plato_apology,Benjamin Jowett,en,1,"{""whole_work"": 1}",2,https://www.gutenberg.org/ebooks/1656
+2,Crito,"[""Plato""]",resolved,plato_crito,Benjamin Jowett,en,1,"{""whole_work"": 1}",1,https://www.gutenberg.org/ebooks/1657
+3,Phaedo,"[""Plato""]",resolved,plato_phaedo,Benjamin Jowett,en,1,"{""whole_work"": 1}",5,https://www.gutenberg.org/ebooks/1658
+4,Symposium,"[""Plato""]",resolved,plato_symposium,Benjamin Jowett,en,1,"{""whole_work"": 1}",4,https://www.gutenberg.org/ebooks/1600
+5,Sophist,"[""Plato""]",resolved,plato_sophist,Benjamin Jowett,en,1,"{""whole_work"": 1}",5,https://www.gutenberg.org/ebooks/1735
+6,Nicomachean Ethics,"[""Aristotle""]",resolved,aristotle_ethics,Non attribuito nella scheda/frontespizio consultati,en,117,"{""chapter"": 117}",117,https://www.gutenberg.org/ebooks/8438
+7,Politics: A Treatise on Government,"[""Aristotle""]",resolved,aristotle_politics,William Ellis,en,103,"{""chapter"": 103}",103,https://www.gutenberg.org/ebooks/6762
+8,The Poetics of Aristotle,"[""Aristotle""]",resolved,aristotle_poetics,Samuel Henry Butcher,en,26,"{""section"": 26}",26,https://www.gutenberg.org/ebooks/1974
+9,The Enchiridion,"[""Epictetus""]",resolved,epictetus_enchiridion,Thomas Wentworth Higginson,en,51,"{""section"": 51}",51,https://www.gutenberg.org/ebooks/45109
+10,Meditations,"[""Marcus Aurelius""]",resolved,marcus_meditations,Meric Casaubon,en,12,"{""book"": 12}",15,https://www.gutenberg.org/ebooks/2680
+11,On the Nature of Things,"[""Lucretius""]",resolved,lucretius_nature,William Ellery Leonard,en,6,"{""book"": 6}",16,https://www.gutenberg.org/ebooks/785
+12,The Confessions of St. Augustine,"[""Augustine of Hippo""]",resolved,augustine_confessions,Edward Bouverie Pusey,en,13,"{""book"": 13}",26,https://www.gutenberg.org/ebooks/3296
+13,The Consolation of Philosophy,"[""Boethius""]",resolved,boethius_consolation,Henry Rosher James,en,78,"{""section"": 78}",78,https://www.gutenberg.org/ebooks/14328
+14,The Prince,"[""Niccolò Machiavelli""]",resolved,machiavelli_prince,William Kenaz Marriott,en,26,"{""chapter"": 26}",26,https://www.gutenberg.org/ebooks/1232
+15,Description of the Methods Adopted by Duke Valentino,"[""Niccolò Machiavelli""]",resolved,machiavelli_prince,William Kenaz Marriott,en,1,"{""whole_work"": 1}",1,https://www.gutenberg.org/ebooks/1232
+16,The Life of Castruccio Castracani of Lucca,"[""Niccolò Machiavelli""]",resolved,machiavelli_prince,William Kenaz Marriott,en,1,"{""whole_work"": 1}",2,https://www.gutenberg.org/ebooks/1232
+17,Utopia,"[""Thomas More""]",resolved,more_utopia,Gilbert Burnet,en,9,"{""section"": 9}",13,https://www.gutenberg.org/ebooks/2130
+18,Of Truth,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+19,Of Death,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+20,Of Unity In Religion,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+21,Of Revenge,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+22,Of Adversity,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+23,Of Simulation And Dissimulation,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+24,Of Parents And Children,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+25,Of Marriage And Single Life,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+26,Of Envy,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+27,Of Love,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+28,Of Great Place,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+29,Of Boldness,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+30,Of Goodness and Goodness Of Nature,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+31,Of Nobility,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+32,Of Seditions And Troubles,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+33,Of Atheism,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+34,Of Superstition,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+35,Of Travel,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+36,Of Empire,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+37,Of Counsel,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+38,Of Delays,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+39,Of Cunning,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+40,Of Wisdom For A Man's Self,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+41,Of Innovations,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+42,Of Dispatch,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+43,Of Seeming Wise,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+44,Of Friendship,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+45,Of Expense,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+46,Of the True Greatness Of Kingdoms And Estates,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+47,Of Regiment Of Health,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+48,Of Suspicion,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+49,Of Discourse,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+50,Of Plantations,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+51,Of Riches,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+52,Of Prophecies,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+53,Of Ambition,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+54,Of Masques And Triumphs,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+55,Of Nature In Men,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+56,Of Custom And Education,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+57,Of Fortune,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+58,Of Usury,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+59,Of Youth And Age,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+60,Of Beauty,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+61,Of Deformity,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+62,Of Building,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+63,Of Gardens,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+64,Of Negotiating,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+65,Of Followers And Friends,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+66,Of Suitors,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+67,Of Studies,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+68,Of Faction,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+69,"Of Ceremonies, And Respects","[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+70,Of Praise,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+71,Of Vain-glory,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+72,Of Honor And Reputation,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+73,Of Judicature,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+74,Of Anger,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+75,Of Vicissitude Of Things,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+76,Of Fame,"[""Francis Bacon""]",resolved,bacon_essays,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/575
+77,New Atlantis,"[""Francis Bacon""]",resolved,bacon_new_atlantis,Original English,en,1,"{""whole_work"": 1}",3,https://www.gutenberg.org/ebooks/2434
+78,"Novum organum : or, True suggestions for the interpretation of nature","[""Francis Bacon""]",resolved,bacon_novum_organum,Non attribuito nella scheda/frontespizio consultati,en,182,"{""aphorism"": 182}",183,https://www.gutenberg.org/ebooks/45988
+79,Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences,"[""René Descartes""]",resolved,descartes_discourse,John Veitch,en,6,"{""part"": 6}",6,https://www.gutenberg.org/ebooks/59
+80,Ethics,"[""Baruch Spinoza""]",resolved,spinoza_ethics,Robert Harvey Monro Elwes,en,5,"{""part"": 5}",19,https://www.gutenberg.org/ebooks/3800
+81,Second Treatise of Government,"[""John Locke""]",resolved,locke_second_treatise,Original English,en,19,"{""chapter"": 19}",21,https://www.gutenberg.org/ebooks/7370
+82,Leviathan,"[""Thomas Hobbes""]",resolved,hobbes_leviathan,Original English,en,48,"{""chapter"": 47, ""section"": 1}",62,https://www.gutenberg.org/ebooks/3207
+83,A Treatise Concerning the Principles of Human Knowledge,"[""George Berkeley""]",resolved,berkeley_principles,Original English,en,156,"{""section"": 156}",156,https://www.gutenberg.org/ebooks/4723
+84,An Enquiry Concerning Human Understanding,"[""David Hume""]",resolved,hume_enquiry,Original English,en,12,"{""section"": 12}",14,https://www.gutenberg.org/ebooks/9662
+85,A Treatise of Human Nature,"[""David Hume""]",resolved,hume_treatise,Original English,en,91,"{""section"": 91}",96,https://www.gutenberg.org/ebooks/4705
+86,The Critique of Pure Reason,"[""Immanuel Kant""]",resolved,kant_pure_reason,John Miller Dow Meiklejohn,en,84,"{""section"": 84}",93,https://www.gutenberg.org/ebooks/4280
+87,Fundamental Principles of the Metaphysic of Morals,"[""Immanuel Kant""]",resolved,kant_groundwork,Thomas Kingsmill Abbott,en,3,"{""section"": 3}",6,https://www.gutenberg.org/ebooks/5682
+88,The Critique of Practical Reason,"[""Immanuel Kant""]",resolved,kant_practical_reason,Thomas Kingsmill Abbott,en,7,"{""chapter"": 5, ""part"": 1, ""section"": 1}",13,https://www.gutenberg.org/ebooks/5683
+89,Kant's Critique of Judgement,"[""Immanuel Kant""]",resolved,kant_judgement,John Henry Bernard,en,91,"{""section"": 91}",92,https://www.gutenberg.org/ebooks/48433
+90,A Vindication of the Rights of Woman,"[""Mary Wollstonecraft""]",resolved,wollstonecraft_rights_woman,Original English,en,13,"{""chapter"": 13}",21,https://www.gutenberg.org/ebooks/3420
+91,Utilitarianism,"[""John Stuart Mill""]",resolved,mill_utilitarianism,Original English,en,5,"{""chapter"": 5}",7,https://www.gutenberg.org/ebooks/11224
+92,On Liberty,"[""John Stuart Mill""]",resolved,mill_liberty,Original English,en,5,"{""chapter"": 5}",10,https://www.gutenberg.org/ebooks/34901
+93,The Subjection of Women,"[""John Stuart Mill""]",resolved,mill_subjection_women,Original English,en,4,"{""chapter"": 4}",9,https://www.gutenberg.org/ebooks/27083
+94,Candide,"[""Voltaire""]",resolved,voltaire_candide,Non attribuito nella scheda/frontespizio consultati,en,30,"{""chapter"": 30}",30,https://www.gutenberg.org/ebooks/19942
+95,Letters on England,"[""Voltaire""]",resolved,voltaire_letters_england,Non attribuito nella scheda/frontespizio consultati,en,24,"{""letter"": 24}",24,https://www.gutenberg.org/ebooks/2445
+96,An Inquiry into the Nature and Causes of the Wealth of Nations,"[""Adam Smith""]",resolved,smith_wealth_nations,Original English,en,34,"{""chapter"": 32, ""section"": 2}",81,https://www.gutenberg.org/ebooks/3300
+97,Common Sense,"[""Thomas Paine""]",resolved,paine_common_sense,Original English,en,5,"{""section"": 5}",6,https://www.gutenberg.org/ebooks/147
+98,The Communist Manifesto,"[""Karl Marx"", ""Friedrich Engels""]",resolved,marx_engels_manifesto,Non attribuito nella scheda/frontespizio consultati,en,4,"{""section"": 4}",4,https://www.gutenberg.org/ebooks/61
+99,"Socialism, Utopian and Scientific","[""Friedrich Engels""]",resolved,engels_socialism,Edward Aveling,en,3,"{""section"": 3}",4,https://www.gutenberg.org/ebooks/39257
+100,HUMAN NATURE.,"[""Arthur Schopenhauer""]",resolved,schopenhauer_human_nature,Thomas Bailey Saunders,en,1,"{""essay"": 1}",2,https://www.gutenberg.org/ebooks/10739
+101,GOVERNMENT.,"[""Arthur Schopenhauer""]",resolved,schopenhauer_human_nature,Thomas Bailey Saunders,en,1,"{""essay"": 1}",2,https://www.gutenberg.org/ebooks/10739
+102,FREE-WILL AND FATALISM.,"[""Arthur Schopenhauer""]",resolved,schopenhauer_human_nature,Thomas Bailey Saunders,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/10739
+103,CHARACTER.,"[""Arthur Schopenhauer""]",resolved,schopenhauer_human_nature,Thomas Bailey Saunders,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/10739
+104,MORAL INSTINCT.,"[""Arthur Schopenhauer""]",resolved,schopenhauer_human_nature,Thomas Bailey Saunders,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/10739
+105,ETHICAL REFLECTIONS.,"[""Arthur Schopenhauer""]",resolved,schopenhauer_human_nature,Thomas Bailey Saunders,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/10739
+106,The Essays of Arthur Schopenhauer: the Wisdom of Life,"[""Arthur Schopenhauer""]",resolved,schopenhauer_wisdom_life,Thomas Bailey Saunders,en,4,"{""chapter"": 4}",8,https://www.gutenberg.org/ebooks/10741
+107,The Essays of Arthur Schopenhauer; Counsels and Maxims,"[""Arthur Schopenhauer""]",resolved,schopenhauer_counsels,Thomas Bailey Saunders,en,5,"{""chapter"": 5}",9,https://www.gutenberg.org/ebooks/10715
+108,ON THE SUFFERINGS OF THE WORLD.,"[""Arthur Schopenhauer""]",resolved,schopenhauer_pessimism,Thomas Bailey Saunders,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/10732
+109,THE VANITY OF EXISTENCE.,"[""Arthur Schopenhauer""]",resolved,schopenhauer_pessimism,Thomas Bailey Saunders,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/10732
+110,ON SUICIDE.,"[""Arthur Schopenhauer""]",resolved,schopenhauer_pessimism,Thomas Bailey Saunders,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/10732
+111,IMMORTALITY: A DIALOGUE.,"[""Arthur Schopenhauer""]",resolved,schopenhauer_pessimism,Thomas Bailey Saunders,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/10732
+112,FURTHER PSYCHOLOGICAL OBSERVATIONS.,"[""Arthur Schopenhauer""]",resolved,schopenhauer_pessimism,Thomas Bailey Saunders,en,1,"{""essay"": 1}",2,https://www.gutenberg.org/ebooks/10732
+113,ON EDUCATION.,"[""Arthur Schopenhauer""]",resolved,schopenhauer_pessimism,Thomas Bailey Saunders,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/10732
+114,OF WOMEN.,"[""Arthur Schopenhauer""]",resolved,schopenhauer_pessimism,Thomas Bailey Saunders,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/10732
+115,ON NOISE.,"[""Arthur Schopenhauer""]",resolved,schopenhauer_pessimism,Thomas Bailey Saunders,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/10732
+116,A FEW PARABLES.,"[""Arthur Schopenhauer""]",resolved,schopenhauer_pessimism,Thomas Bailey Saunders,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/10732
+117,ON AUTHORSHIP.,"[""Arthur Schopenhauer""]",resolved,schopenhauer_literature,Thomas Bailey Saunders,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/10714
+118,ON STYLE.,"[""Arthur Schopenhauer""]",resolved,schopenhauer_literature,Thomas Bailey Saunders,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/10714
+119,ON THE STUDY OF LATIN.,"[""Arthur Schopenhauer""]",resolved,schopenhauer_literature,Thomas Bailey Saunders,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/10714
+120,ON MEN OF LEARNING.,"[""Arthur Schopenhauer""]",resolved,schopenhauer_literature,Thomas Bailey Saunders,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/10714
+121,ON THINKING FOR ONESELF.,"[""Arthur Schopenhauer""]",resolved,schopenhauer_literature,Thomas Bailey Saunders,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/10714
+122,ON CRITICISM.,"[""Arthur Schopenhauer""]",resolved,schopenhauer_literature,Thomas Bailey Saunders,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/10714
+123,ON REPUTATION.,"[""Arthur Schopenhauer""]",resolved,schopenhauer_literature,Thomas Bailey Saunders,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/10714
+124,ON GENIUS.,"[""Arthur Schopenhauer""]",resolved,schopenhauer_literature,Thomas Bailey Saunders,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/10714
+125,Beyond Good and Evil,"[""Friedrich Nietzsche""]",resolved,nietzsche_beyond_good_evil,Helen Zimmern,en,9,"{""chapter"": 9}",17,https://www.gutenberg.org/ebooks/4363
+126,From the Heights,"[""Friedrich Nietzsche""]",resolved,nietzsche_beyond_good_evil,L. A. Magnus,en,1,"{""poem"": 1}",1,https://www.gutenberg.org/ebooks/4363
+127,Thus Spake Zarathustra: A Book for All and None,"[""Friedrich Nietzsche""]",resolved,nietzsche_zarathustra,Thomas Common,en,84,"{""prologue"": 1, ""chapter"": 80, ""section"": 3}",85,https://www.gutenberg.org/ebooks/1998
+128,I. HISTORY,"[""Ralph Waldo Emerson""]",resolved,emerson_essays_first,Original English,en,1,"{""essay"": 1}",2,https://www.gutenberg.org/ebooks/2944
+129,II. SELF-RELIANCE,"[""Ralph Waldo Emerson""]",resolved,emerson_essays_first,Original English,en,1,"{""essay"": 1}",2,https://www.gutenberg.org/ebooks/2944
+130,III. COMPENSATION,"[""Ralph Waldo Emerson""]",resolved,emerson_essays_first,Original English,en,1,"{""essay"": 1}",2,https://www.gutenberg.org/ebooks/2944
+131,IV. SPIRITUAL LAWS,"[""Ralph Waldo Emerson""]",resolved,emerson_essays_first,Original English,en,1,"{""essay"": 1}",2,https://www.gutenberg.org/ebooks/2944
+132,V. LOVE,"[""Ralph Waldo Emerson""]",resolved,emerson_essays_first,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/2944
+133,VI. FRIENDSHIP,"[""Ralph Waldo Emerson""]",resolved,emerson_essays_first,Original English,en,1,"{""essay"": 1}",2,https://www.gutenberg.org/ebooks/2944
+134,VII. PRUDENCE,"[""Ralph Waldo Emerson""]",resolved,emerson_essays_first,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/2944
+135,VIII. HEROISM,"[""Ralph Waldo Emerson""]",resolved,emerson_essays_first,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/2944
+136,IX. THE OVER-SOUL,"[""Ralph Waldo Emerson""]",resolved,emerson_essays_first,Original English,en,1,"{""essay"": 1}",2,https://www.gutenberg.org/ebooks/2944
+137,X. CIRCLES,"[""Ralph Waldo Emerson""]",resolved,emerson_essays_first,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/2944
+138,XI. INTELLECT,"[""Ralph Waldo Emerson""]",resolved,emerson_essays_first,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/2944
+139,XII. ART,"[""Ralph Waldo Emerson""]",resolved,emerson_essays_first,Original English,en,1,"{""essay"": 1}",1,https://www.gutenberg.org/ebooks/2944
+140,Nature,"[""Ralph Waldo Emerson""]",resolved,emerson_nature,Original English,en,8,"{""chapter"": 8}",8,https://www.gutenberg.org/ebooks/29433
+141,Walden,"[""Henry David Thoreau""]",resolved,thoreau_walden_civil,Original English,en,18,"{""chapter"": 18}",26,https://www.gutenberg.org/ebooks/205
+142,On the Duty of Civil Disobedience,"[""Henry David Thoreau""]",resolved,thoreau_walden_civil,Original English,en,1,"{""whole_work"": 1}",2,https://www.gutenberg.org/ebooks/205
+143,Pragmatism: A New Name for Some Old Ways of Thinking,"[""William James""]",resolved,james_pragmatism,Original English,en,8,"{""lecture"": 8}",14,https://www.gutenberg.org/ebooks/5116
+144,The Varieties of Religious Experience: A Study in Human Nature,"[""William James""]",resolved,james_varieties,Original English,en,15,"{""lecture"": 15}",36,https://www.gutenberg.org/ebooks/621
+145,Democracy and Education: An Introduction to the Philosophy of Education,"[""John Dewey""]",resolved,dewey_democracy_education,Original English,en,26,"{""chapter"": 26}",30,https://www.gutenberg.org/ebooks/852
+146,How We Think,"[""John Dewey""]",resolved,dewey_how_we_think,Original English,en,16,"{""chapter"": 16}",17,https://www.gutenberg.org/ebooks/37423
+147,Time and Free Will: An Essay on the Immediate Data of Consciousness,"[""Henri Bergson""]",resolved,bergson_time_free_will,Frank Lubecki Pogson,en,4,"{""chapter"": 3, ""section"": 1}",12,https://www.gutenberg.org/ebooks/56852
+148,Laughter: An Essay on the Meaning of the Comic,"[""Henri Bergson""]",resolved,bergson_laughter,Cloudesley Brereton; Fred Rothwell,en,3,"{""chapter"": 3}",9,https://www.gutenberg.org/ebooks/4352
+149,Confucian Analects,"[""Confucius and the Analects tradition""]",traditional,confucius_analects,James Legge,en,20,"{""book"": 20}",20,https://www.gutenberg.org/ebooks/3330
+150,"The Tao Teh King, or the Tao and its Characteristics","[""Laozi tradition""]",traditional,laozi_tao_te_ching,James Legge,en,81,"{""section"": 81}",81,https://www.gutenberg.org/ebooks/216
+151,"Dhammapada, a Collection of Verses; Being One of the Canonical Books of the Buddhists","[""Anonymous Buddhist tradition""]",traditional,dhammapada,Friedrich Max Müller,en,26,"{""chapter"": 26}",26,https://www.gutenberg.org/ebooks/2017
+152,"The Song Celestial; Or, Bhagavad-Gîtâ (from the Mahâbhârata)","[""Anonymous Bhagavad Gita tradition""]",traditional,bhagavad_gita,Edwin Arnold,en,18,"{""chapter"": 18}",18,https://www.gutenberg.org/ebooks/2388

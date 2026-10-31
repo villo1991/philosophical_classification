@@ -1,0 +1,124 @@
+test_catalog_identity_change_is_blocked (test_acquire.AcquireTests) ... doc downloaded
+doc FAILED [cache_identity] Catalog changed; cached source is not reused
+ok
+test_discovered_link_not_filename_template_and_clean_restart (test_acquire.AcquireTests) ... doc downloaded
+doc cached
+ok
+test_filename_without_listing_does_not_prove_html (test_acquire.AcquireTests) ... doc FAILED [no_html] No actual HTML links in https://gutenberg.pglaf.org/cache/epub/12/
+ok
+test_source_mutation_is_not_reused (test_acquire.AcquireTests) ... doc downloaded
+doc FAILED [cache_checksum] doc: original bytes mutated
+ok
+test_unapproved_host_blocked_before_request (test_acquire.AcquireTests) ... ok
+test_all_frozen_sources_have_complete_nonduplicated_accounting (test_catalog60.CatalogExtractionTests) ... ok
+test_changed_source_or_guard_is_rejected (test_catalog60.CatalogExtractionTests) ... ok
+test_exact_reconstruction_and_inline_page_removal (test_catalog60.CatalogExtractionTests) ... ok
+test_legacy_146_inputs_preserved (test_catalog60.CatalogExtractionTests) ... ok
+test_native_boundaries_toc_intro_notes_and_same_level_subtitle (test_catalog60.CatalogExtractionTests) ... ok
+test_real_collections_have_distinct_work_and_unit_ids (test_catalog60.CatalogExtractionTests) ... ok
+test_real_editorial_and_marker_regressions (test_catalog60.CatalogExtractionTests) ... ok
+test_real_numbered_and_paragraph_heading_fixtures (test_catalog60.CatalogExtractionTests) ... ok
+test_real_short_dom_fixtures (test_catalog60.CatalogExtractionTests) ... ok
+test_unknown_gap_stays_unresolved (test_catalog60.CatalogExtractionTests) ... ok
+test_interruption_resume_cache_invalidation_and_zero_dispatch_restart (test_catalog60.CatalogResumeTests) ... REQUESTED CATALOG AND EXECUTABLE SELECTION {"planned_windows": 3, "catalog_complete": true, "requested_sources": ["doc"]}
+doc text0 1 / 3 new 1 cache 0
+REQUESTED CATALOG AND EXECUTABLE SELECTION {"planned_windows": 3, "catalog_complete": true, "requested_sources": ["doc"]}
+doc text0 1 / 3 new 0 cache 1
+doc text1 2 / 3 new 1 cache 1
+doc text2 3 / 3 new 2 cache 1
+REQUESTED CATALOG AND EXECUTABLE SELECTION {"planned_windows": 3, "catalog_complete": true, "requested_sources": ["doc"]}
+doc text0 1 / 3 new 0 cache 1
+doc text1 2 / 3 new 0 cache 2
+doc text2 3 / 3 new 0 cache 3
+REQUESTED CATALOG AND EXECUTABLE SELECTION {"planned_windows": 3, "catalog_complete": true, "requested_sources": ["doc"]}
+ok
+test_embedding_cache_config_invalidation_and_zero_request_restart (test_chapter_first.ChapterCacheTests) ... doc Chapter w0 tokens 48 owned 46
+doc Chapter w0 cached
+doc Chapter w1 tokens 42 owned 32
+doc Chapter w0 cached
+doc Chapter w1 cached
+doc Chapter w0 cached
+doc Chapter w1 cached
+doc Chapter w0 tokens 48 owned 46
+doc Chapter w1 tokens 42 owned 32
+ok
+test_extraction_source_profile_parser_and_cleaned_cache_invalidation (test_chapter_first.ChapterCacheTests) ... ok
+test_offline_status_and_report_never_request_backend (test_chapter_first.ChapterCacheTests) ... ok
+test_complete_coverage_unique_ownership_and_short_tail (test_chapter_first.ChapterPlanTests) ... ok
+test_empty_input_rejected (test_chapter_first.ChapterPlanTests) ... ok
+test_fit_and_exact_limit_use_one_native_input (test_chapter_first.ChapterPlanTests) ... ok
+test_just_above_limit_and_long_chapter (test_chapter_first.ChapterPlanTests) ... ok
+test_one_window_native_vector_preserved (test_chapter_first.ChapterPlanTests) ... ok
+test_weighted_mean_short_tail_and_norm (test_chapter_first.ChapterPlanTests) ... ok
+test_collection_work_ranges_stay_separate (test_chapter_first.NativeChapterTests) ... ok
+test_comparison_distinguishes_source_material_from_text_layout (test_chapter_first.NativeChapterTests) ... ok
+test_contents_intro_and_notes_not_primary (test_chapter_first.NativeChapterTests) ... ok
+test_edition_source_pin_and_toc_guard (test_chapter_first.NativeChapterTests) ... ok
+test_exact_piecewise_mapping_after_cleaning (test_chapter_first.NativeChapterTests) ... ok
+test_explicit_note_body_excluded (test_chapter_first.NativeChapterTests) ... ok
+test_hierarchy_native_leaf_chapters_only (test_chapter_first.NativeChapterTests) ... ok
+test_inline_references_do_not_fragment_paragraphs (test_chapter_first.NativeChapterTests) ... ok
+test_real_aristotle_two_chapters_are_complete (test_chapter_first.NativeChapterTests) ... ok
+test_real_plato_transcriber_notes_excluded (test_chapter_first.NativeChapterTests) ... ok
+test_unresolved_gap_blocks_unit (test_chapter_first.NativeChapterTests) ... ok
+test_bounded_heatmap_and_streamed_original_cosine_neighbors (test_chapter_plot.ChapterPlotTests) ... ok
+test_cli_requires_run_and_default_pca_is_offline (test_chapter_plot.ChapterPlotTests) ... ok
+test_cosine_uses_original_vectors_and_hover_has_unit_metadata (test_chapter_plot.ChapterPlotTests) ... ok
+test_dangling_pointer_can_recover_offline (test_chapter_plot.ChapterPlotTests) ... ok
+test_duplicate_ids_are_rejected (test_chapter_plot.ChapterPlotTests) ... ok
+test_edited_output_is_preserved (test_chapter_plot.ChapterPlotTests) ... ok
+test_incomplete_selection_cannot_aggregate_or_plot (test_chapter_plot.ChapterPlotTests) ... ok
+test_invalid_shape_nonfinite_and_unnormalized_are_rejected (test_chapter_plot.ChapterPlotTests) ... ok
+test_levels_verify_original_space_means_and_balance (test_chapter_plot.ChapterPlotTests) ... ok
+test_matrix_order_must_match_individual_id (test_chapter_plot.ChapterPlotTests) ... ok
+test_metadata_must_match_frozen_plan (test_chapter_plot.ChapterPlotTests) ... ok
+test_missing_aggregation_uses_existing_offline_aggregator (test_chapter_plot.ChapterPlotTests) ... ok
+test_missing_native_cache_reports_exact_path (test_chapter_plot.ChapterPlotTests) ... ok
+test_missing_run_never_falls_back (test_chapter_plot.ChapterPlotTests) ... ok
+test_offline_plot_is_standalone_and_restart_reuses_files (test_chapter_plot.ChapterPlotTests) ... ok
+test_pointer_cannot_select_other_run (test_chapter_plot.ChapterPlotTests) ... ok
+test_pointer_selects_current_not_latest_directory (test_chapter_plot.ChapterPlotTests) ... ok
+test_small_sample_configs_are_explicit_and_safe (test_chapter_plot.ChapterPlotTests) ... ok
+test_centroid_medoid_and_outliers (test_html.GeometryTests) ... ok
+test_masked_bounded_maxsim (test_html.GeometryTests) ... ok
+test_near_zero_invalid (test_html.GeometryTests) ... ok
+test_streaming_sketch_and_projection (test_html.GeometryTests) ... ok
+test_weighted_medoid_matches_pairwise_definition (test_html.GeometryTests) ... ok
+test_clean_restart_cache_invalidation_and_no_model_status (test_html.ReviewAndResumeTests) ... ok
+test_edited_review_archive_preserved (test_html.ReviewAndResumeTests) ... ok
+test_embedding_resume_and_changed_backend (test_html.ReviewAndResumeTests) ... doc w-1b813b7cc04a0970621f27f7 tokens=26 core=24
+doc w-1b813b7cc04a0970621f27f7 cached
+doc w-0858f43085227711109f56bb tokens=5 core=3
+doc w-1b813b7cc04a0970621f27f7 cached
+doc w-0858f43085227711109f56bb cached
+ok
+test_parser_version_invalidation_and_original_integrity (test_html.ReviewAndResumeTests) ... ok
+test_review_gate_and_note_gaps (test_html.ReviewAndResumeTests) ... ok
+test_review_stale_and_excluded_protection (test_html.ReviewAndResumeTests) ... ok
+test_versioned_review_export_preserves_edits (test_html.ReviewAndResumeTests) ... ok
+test_work_balancing_differs_from_chapter_weighting (test_html.ReviewAndResumeTests) ... [research-local path omitted]
+[research-local path omitted]
+[research-local path omitted]
+doc w-8875d121bc0e41fb762ede02 tokens=6 core=4
+doc w-ce807b2a8833996ab5d5416e tokens=6 core=4
+doc w-138f9d5999dafcbc5bf4c600 tokens=7 core=5
+ok
+test_canonical_offsets_are_complete (test_html.StructureTests) ... ok
+test_compact_html_line_break_does_not_join_words (test_html.StructureTests) ... ok
+test_nested_chapter_not_work (test_html.StructureTests) ... ok
+test_nested_intro_excluded_but_keywords_are_prose (test_html.StructureTests) ... ok
+test_note_markers_and_body_are_separate (test_html.StructureTests) ... ok
+test_real_fixture_intro_and_chapter (test_html.StructureTests) ... ok
+test_scripts_retained_as_inert (test_html.StructureTests) ... ok
+test_speaker_not_author (test_html.StructureTests) ... ok
+test_toc_body_and_old_named_anchor (test_html.StructureTests) ... ok
+test_coverage_overlap_and_special_tokens (test_html.WindowTests) ... ok
+test_invalid_budgets (test_html.WindowTests) ... ok
+test_mutated_tokenizer_fails (test_html.WindowTests) ... ok
+test_native_trailing_whitespace_adapter_preserves_source (test_html.WindowTests) ... ok
+test_unicode_and_long_paragraph (test_html.WindowTests) ... ok
+
+----------------------------------------------------------------------
+Ran 81 tests in 15.867s
+
+OK

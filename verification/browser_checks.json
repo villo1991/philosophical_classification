@@ -1,0 +1,165 @@
+{
+  "status": "passed",
+  "browser": "Firefox",
+  "browser_version": "156.0.1",
+  "mode": "relocated folder opened directly from disk",
+  "external_asset_loading": "blocked by unreachable proxy",
+  "report_navigation": true,
+  "catalog_filter_visible_results": 2,
+  "plot_catalog_navigation": true,
+  "charts": [
+    {
+      "file": "../visualizations/chapter_cosine.html",
+      "rendered": true,
+      "plotly_version": "3.7.0",
+      "displayed_rows": 120,
+      "traces": 1,
+      "network_asset_requests": 0,
+      "zoom_and_hover_verified": false
+    },
+    {
+      "file": "../visualizations/chapter_pca.html",
+      "rendered": true,
+      "plotly_version": "3.7.0",
+      "displayed_rows": 1731,
+      "traces": 52,
+      "network_asset_requests": 0,
+      "zoom_and_hover_verified": true
+    },
+    {
+      "file": "../visualizations/chapter_tsne.html",
+      "rendered": true,
+      "plotly_version": "3.7.0",
+      "displayed_rows": 1731,
+      "traces": 52,
+      "network_asset_requests": 0,
+      "zoom_and_hover_verified": true
+    },
+    {
+      "file": "../visualizations/chapter_umap.html",
+      "rendered": true,
+      "plotly_version": "3.7.0",
+      "displayed_rows": 1731,
+      "traces": 52,
+      "network_asset_requests": 0,
+      "zoom_and_hover_verified": true
+    },
+    {
+      "file": "../visualizations/philosopher_chapter_balanced_cosine.html",
+      "rendered": true,
+      "plotly_version": "3.7.0",
+      "displayed_rows": 35,
+      "traces": 1,
+      "network_asset_requests": 0,
+      "zoom_and_hover_verified": false
+    },
+    {
+      "file": "../visualizations/philosopher_chapter_balanced_pca.html",
+      "rendered": true,
+      "plotly_version": "3.7.0",
+      "displayed_rows": 35,
+      "traces": 35,
+      "network_asset_requests": 0,
+      "zoom_and_hover_verified": true
+    },
+    {
+      "file": "../visualizations/philosopher_chapter_balanced_tsne.html",
+      "rendered": true,
+      "plotly_version": "3.7.0",
+      "displayed_rows": 35,
+      "traces": 35,
+      "network_asset_requests": 0,
+      "zoom_and_hover_verified": true
+    },
+    {
+      "file": "../visualizations/philosopher_chapter_balanced_umap.html",
+      "rendered": true,
+      "plotly_version": "3.7.0",
+      "displayed_rows": 35,
+      "traces": 35,
+      "network_asset_requests": 0,
+      "zoom_and_hover_verified": true
+    },
+    {
+      "file": "../visualizations/philosopher_work_balanced_cosine.html",
+      "rendered": true,
+      "plotly_version": "3.7.0",
+      "displayed_rows": 35,
+      "traces": 1,
+      "network_asset_requests": 0,
+      "zoom_and_hover_verified": false
+    },
+    {
+      "file": "../visualizations/philosopher_work_balanced_pca.html",
+      "rendered": true,
+      "plotly_version": "3.7.0",
+      "displayed_rows": 35,
+      "traces": 35,
+      "network_asset_requests": 0,
+      "zoom_and_hover_verified": true
+    },
+    {
+      "file": "../visualizations/philosopher_work_balanced_tsne.html",
+      "rendered": true,
+      "plotly_version": "3.7.0",
+      "displayed_rows": 35,
+      "traces": 35,
+      "network_asset_requests": 0,
+      "zoom_and_hover_verified": true
+    },
+    {
+      "file": "../visualizations/philosopher_work_balanced_umap.html",
+      "rendered": true,
+      "plotly_version": "3.7.0",
+      "displayed_rows": 35,
+      "traces": 35,
+      "network_asset_requests": 0,
+      "zoom_and_hover_verified": true
+    },
+    {
+      "file": "../visualizations/work_cosine.html",
+      "rendered": true,
+      "plotly_version": "3.7.0",
+      "displayed_rows": 153,
+      "traces": 1,
+      "network_asset_requests": 0,
+      "zoom_and_hover_verified": false
+    },
+    {
+      "file": "../visualizations/work_pca.html",
+      "rendered": true,
+      "plotly_version": "3.7.0",
+      "displayed_rows": 153,
+      "traces": 35,
+      "network_asset_requests": 0,
+      "zoom_and_hover_verified": true
+    },
+    {
+      "file": "../visualizations/work_tsne.html",
+      "rendered": true,
+      "plotly_version": "3.7.0",
+      "displayed_rows": 153,
+      "traces": 35,
+      "network_asset_requests": 0,
+      "zoom_and_hover_verified": true
+    },
+    {
+      "file": "../visualizations/work_umap.html",
+      "rendered": true,
+      "plotly_version": "3.7.0",
+      "displayed_rows": 153,
+      "traces": 35,
+      "network_asset_requests": 0,
+      "zoom_and_hover_verified": true
+    }
+  ],
+  "chart_count": 16,
+  "inference_requests": 0,
+  "screenshots": [
+    "browser/catalog_filtered.png",
+    "browser/chapter_pca.png",
+    "browser/chapter_umap.png",
+    "browser/main_report.png",
+    "browser/work_cosine.png"
+  ]
+}
